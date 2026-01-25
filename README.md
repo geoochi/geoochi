@@ -6,4 +6,7 @@
     <div>
         <img src="https://geoochi-log.vercel.app/cum.webp" style="width: 92%;" />
     </div>
+    <div>
+        <img src="https://geoochi-log.vercel.app/time.webp" style="width: 92%;" />
+    </div>
 </div>
