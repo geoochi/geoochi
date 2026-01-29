@@ -4,9 +4,9 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geoochi&theme=default" style="width: 49%;" />
     </div>
     <div>
-        <img src="https://status.geoochi.com/cum.webp" style="width: 92%;" />
+        <img src="https://124.71.168.166/log/cum.webp" style="width: 92%;" />
     </div>
     <div>
-        <img src="https://status.geoochi.com/time.webp" style="width: 92%;" />
+        <img src="https://124.71.168.166/log/time.webp" style="width: 92%;" />
     </div>
 </div>
